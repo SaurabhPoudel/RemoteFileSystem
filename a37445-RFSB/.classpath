@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="src" path="src/test/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8/"/>
+	<classpathentry kind="con" path="org.eclipse.buildship.core.gradleclasspathcontainer"/>
+	<classpathentry exported="true" kind="lib" path="/Users/saurabhpoudel/.p2/pool/plugins/org.eclipse.swt.cocoa.macosx.x86_64_3.108.0.v20180904-1901.jar" sourcepath="/Users/saurabhpoudel/.p2/pool/plugins/org.eclipse.swt.cocoa.macosx.x86_64_3.108.0.v20180904-1901.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/saurabhpoudel/.p2/pool/plugins/org.eclipse.ui.workbench_3.112.0.v20180906-1121.jar" sourcepath="/Users/saurabhpoudel/.p2/pool/plugins/org.eclipse.ui.workbench_3.112.0.v20180906-1121.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
